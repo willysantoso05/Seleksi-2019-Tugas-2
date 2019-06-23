@@ -17,7 +17,7 @@
 
 ### Data Storing
 
-1. Lakukan _storing_ data yang didapatkan dari hasil _scrapping_ ke DBMS.
+1. Lakukan _storing_ data yang didapatkan dari hasil _scrapping_ ke DBMS (Tugas 1).
 
 2. DBMS yang digunakan __dibebaskan__
 
