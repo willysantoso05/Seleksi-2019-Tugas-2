@@ -41,12 +41,10 @@
 8. Data yang disimpan di DBMS nantinya akan digunakan untuk analisis dan visualisasi data.
 
 9. Berikan README yang __WELL DOCUMENTED__ dengan cara __override__ file README.md ini. README harus memuat minimal konten :
-```
-- Description of the DBMS (Why you choose it)
-- Screenshot (di-upload pada folder screenshots, di-upload file image nya, dan ditampilkan di dalam README)
-- Reference (Library used, etc)
-- Author
-```
+    - Description of the DBMS (Why you choose it)
+    - Screenshot (di-upload pada folder screenshots, di-upload file image nya, dan ditampilkan di dalam README)
+    - Reference (Library used, etc)
+    - Author
 
 <h1 align="center">
   <br>
