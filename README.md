@@ -36,7 +36,7 @@
     - _folder_ `screenshot` berisi tangkapan layar bukti dari penyimpanan data ke DBMS, sedangkan 
     - _folder_ `export` berisi _file_ hasil _export_ dari DBMS (seperti `.sql`, `.json`, (1 saja yang didukung oleh DBMS)).
 
-7. Deadline pengumpulan tugas ini adalah __7 Juli 2019 Pukul 23.59__
+7. Deadline pengumpulan tugas ini adalah __21 Juli 2019 Pukul 23.59__
 
 8. Data yang disimpan di DBMS nantinya akan digunakan untuk analisis dan visualisasi data.
 
