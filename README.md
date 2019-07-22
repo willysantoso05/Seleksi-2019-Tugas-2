@@ -1,61 +1,30 @@
 <h1 align="center">
   <br>
-  Seleksi 2 Warga Basdat 2019
+  Data Storing
   <br>
   <br>
 </h1>
 
 <h2 align="center">
   <br>
-  Data Storing
+  Data Part PC dari NanoKomputer
   <br>
   <br>
 </h2>
 
+## Description
+Data Base Management System (DBMS) yang digunakan adalah MongoDB. MongoDB merupakan salah satu jenis basis data non relasional yang mudah digunakan serta memberikan performa yang tinggi. MongoDB juga menyediakan software GUI MongoDB Compass sehingga memudahkan dalam mengakses basis data. Sebelumnya, saya sudah pernah melakukan eksplorasi basis data dengan menggunakan MySQL yang merupakan jenis basis data relasional. Oleh karena itu, saya ingin memperluas wawasan dan menambah pengetahuan dalam basis data dengan mencoba menggunakan MongoDB.
 
-## Specifications
+## Screenshoot
+![screenshotCode1](https://github.com/willysantoso05/Seleksi-2019-Tugas-2/blob/master/screenshots/sc1.png)
+![screenshotCode2](https://github.com/willysantoso05/Seleksi-2019-Tugas-2/blob/master/screenshots/sc2.png)
 
-### Data Storing
+## Reference
+- https://docs.mongodb.com/compass/current/
 
-1. Lakukan _storing_ data yang didapatkan dari hasil _scrapping_ ke DBMS (Tugas 1).
-
-2. DBMS yang digunakan __dibebaskan__
-
-3. Contoh DBMS yang dapat digunakan (__tidak harus__ salah satu dari contoh di bawah)
-    - [PostgreSQL](https://www.postgresql.org/)
-    - [MySQL](https://www.mysql.com/)
-    - [CouchDB](http://couchdb.apache.org/)
-    - [MongoDB](https://www.mongodb.com/)
-
-4. Penggunaan _tools_ seperti PHPMyAdmin, HeidiSQL, Robo3t diperbolehkan.
-
-5. Dalam mengerjakan tugas, calon warga basdat terlebih dahulu melakukan _fork_ project github pada link berikut: https://github.com/wargabasdat/Seleksi-2019-Tugas-2. Sebelum batas waktu pengumpulan berakhir, calon warga basdat harus sudah melakukan _pull request_ dengan nama ```TUGAS_SELEKSI_2_[NIM]```
-
-6. Pada _repository_ tersebut, calon warga basdat harus mengumpulkan bukti penyimpanan data pada DBMS. _repository_ Tugas 2 terdiri dari folder `data`, `screenshots` dan `export`. 
-    - _Folder_ `data` berisi data hasil dari _scrapping_, 
-    - _folder_ `screenshot` berisi tangkapan layar bukti dari penyimpanan data ke DBMS, sedangkan 
-    - _folder_ `export` berisi _file_ hasil _export_ dari DBMS (seperti `.sql`, `.json`, (1 saja yang didukung oleh DBMS)).
-
-7. Deadline pengumpulan tugas ini adalah __21 Juli 2019 Pukul 23.59__
-
-8. Data yang disimpan di DBMS nantinya akan digunakan untuk analisis dan visualisasi data.
-
-9. Berikan README yang __WELL DOCUMENTED__ dengan cara __override__ file README.md ini. README harus memuat minimal konten :
-    - Description of the DBMS (Why you choose it)
-    - Screenshot (di-upload pada folder screenshots, di-upload file image nya, dan ditampilkan di dalam README)
-    - Reference (Library used, etc)
-    - Author
-
-<h1 align="center">
+<h2 align="center">
   <br>
-  Selamat Ber-Eksplorasi!
+  Willy Santoso - 13517066
   <br>
   <br>
-</h1>
-
-<p align="center">
-  <br>
-  Basdat Industries - Lab Basdat 2019
-  <br>
-  <br>
-</p>
+</h2>
